@@ -1,3 +1,4 @@
+
 # Mysite
 ## Descrição
 
@@ -5,3 +6,6 @@ Desenvolvimento de uma aplicação em python, com framework Django, usando ambie
 
 ## Propósito
 Construir aplicação usando conceitos de desenvolvimento e gitflow
+
+### Projeto Django em desenvolvimento
+
