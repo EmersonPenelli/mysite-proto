@@ -1,3 +1,4 @@
+
 """
 URL configuration for mysite project.
 
@@ -20,4 +21,9 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('home', include('blog.urls'))
+<<<<<<< HEAD
 ]
+=======
+]
+
+>>>>>>> 895054c95ba3ad15c15d45832ada295a566627af
